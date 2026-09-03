@@ -5,8 +5,6 @@
 [![RapidOCR](https://img.shields.io/badge/OCR-RapidOCR--ONNX-green)](https://github.com/RapidAI/RapidOCR)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)](https://github.com/)
 
-> **个人开源成果展示作品**：专门针对**口腔科门诊病历（非牙周大表）**的复杂图文混合排版，融合**数字图像处理、形态学图像分割、几何拓扑解析与端侧轻量 OCR 技术**，将包含**十字牙位符号、牙周探诊深度网格（PD）、根分叉病变（FI）**等非标准临床绘图符号的门诊病历扫描件/图片，全自动还原重建为**高可用纯文字文本（Plain Text）**与**标准化结构化数据（JSON）**。
-
 ---
 
 ## 📑 目录
