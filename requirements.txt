@@ -1,0 +1,8 @@
+# Dental Outpatient Record OCR 运行依赖
+# 支持 Linux, macOS, Windows 跨平台安装
+
+rapidocr-onnxruntime>=1.3.8
+pymupdf>=1.23.0
+opencv-python>=4.8.0
+pillow>=9.5.0
+numpy>=1.24.0
